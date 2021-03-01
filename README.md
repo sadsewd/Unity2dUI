@@ -1,8 +1,8 @@
 # Unity2dUI
 Pirmais Unity2D projekts. UI elementi.
 ### Veicamo darbu saraksts
-- [ ] Nodrošināt projekta vesrionēšanu
-- [ ] Ievietot teksta logu 
+- [x] Nodrošināt projekta vesrionēšanu
+- [x] Ievietot teksta logu 
 - [ ] Ievietot attēlus
 - [ ] Ievietot ček boksus
 - [ ] Nodrošināt radio pogas darbību
